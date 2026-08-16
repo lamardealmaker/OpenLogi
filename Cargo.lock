@@ -5078,7 +5078,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "anyhow",
  "openlogi-cli",
@@ -5087,7 +5087,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-agent"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "embed-resource",
  "futures",
@@ -5114,7 +5114,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-agent-core"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "async-hid",
  "futures-lite",
@@ -5129,7 +5129,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-assets"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "atomic-write-file",
  "backon",
@@ -5144,7 +5144,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-camera"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "block2 0.6.2",
  "objc2 0.6.4",
@@ -5160,7 +5160,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-cli"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "anyhow",
  "clap",
@@ -5176,7 +5176,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-core"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "atomic-write-file",
  "etcetera",
@@ -5194,7 +5194,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-gui"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "anyhow",
  "backon",
@@ -5237,7 +5237,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-hid"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "async-hid",
  "atomic-write-file",
@@ -5260,7 +5260,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-hidpp"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "async-channel",
  "async-trait",
@@ -5280,7 +5280,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-hidpp-derive"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -5289,7 +5289,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-hook"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "core-foundation 0.10.0",
  "core-graphics 0.25.0",
@@ -5315,7 +5315,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-inject"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "core-foundation 0.10.0",
  "core-graphics 0.25.0",
@@ -5336,7 +5336,7 @@ dependencies = [
 
 [[package]]
 name = "openlogi-ipc"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "bincode",
  "interprocess",
@@ -9846,7 +9846,7 @@ checksum = "32ac00cd3f8ec9c1d33fb3e7958a82df6989c42d747bd326c822b1d625283547"
 
 [[package]]
 name = "xtask"
-version = "0.7.1"
+version = "0.7.2"
 dependencies = [
  "anyhow",
  "clap",
